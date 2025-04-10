@@ -7,7 +7,7 @@ Herramienta para convertir diseños de Figma a código Angular.
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/figma2code.git
+git https://github.com/fjcv2020/Figma2Code.git
 cd figma2code
 ```
 
